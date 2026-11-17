@@ -1,0 +1,10 @@
+{
+  "name": "mfa-push-binding-validator",
+  "version": "1.0.0",
+  "description": "MFA push challenge state machine with device/action/nonce binding",
+  "main": "src/stateMachine.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
